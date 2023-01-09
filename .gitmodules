@@ -4,3 +4,6 @@
 [submodule "DAHqueue_API"]
 	path = DAHqueue_API
 	url = https://github.com/juhyoungRyu/DAHqueue_API
+[submodule "DAHqueue_admin"]
+	path = DAHqueue_admin
+	url = https://github.com/juhyoungRyu/DAHqueue_admin
